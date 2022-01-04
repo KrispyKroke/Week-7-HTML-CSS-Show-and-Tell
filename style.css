@@ -1,1 +1,17 @@
+h1 {
+    text-align: center;
+    color: green;
+    transform: rotate(-10deg);
+}
 
+p {
+    transform: rotate(-15deg);
+    text-align: center;
+    color: red;
+}
+
+h2 {
+    transform: rotate(-20deg);
+    text-align: center;
+    color: blue;
+}
